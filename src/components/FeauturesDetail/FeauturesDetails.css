@@ -1,0 +1,18 @@
+
+.foodap_tst-top {
+  font-family: "Montserrat", sans-serif;
+}
+
+.foodap_tst-head {
+  color: rgb(190, 145, 7);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%;
+}
+.foodap_tst-bold {
+  font-size: 30px;
+  font-style: normal;
+  line-height: 100%;
+  font-weight: bold;
+}

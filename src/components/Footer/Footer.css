@@ -1,0 +1,31 @@
+.foodap_main-head{
+    color: rgb(190, 145, 7);  
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; 
+}
+.foodap_main-para{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    color: rgb(159, 154, 154);
+    align-self:center;
+}
+.foodap_copy-right span{
+     font-weight:bold;
+}
+@media only screen and (max-width: 430px) {
+   .foodap_footer{
+    display:flex;
+    flex-direction:column;
+    padding:auto;
+    align-items:center;
+    text-align:center;
+   }
+   .foodap_copy-right {
+    font-size:12px;
+    text-align:center;
+   }
+}

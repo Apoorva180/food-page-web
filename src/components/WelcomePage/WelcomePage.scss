@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;400;900&family=Montserrat:wght@500;600;700&family=Noto+Serif&family=Poppins:wght@100;200;400;500&family=Prompt&family=Roboto:ital,wght@0,400;1,300&family=RocknRoll+One&display=swap");
+
+.foodap_main-container {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(251, 213, 177);
+  padding: 100px 0;
+  .foodap_left-container {
+    h1 {
+      font-size: 34px;
+      font-weight: bold;
+
+      span {
+        font-size: 32px;
+        font-weight: 700;
+      }
+    }
+    h2 {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    p {
+      font-size: 14px;
+    }
+    span {
+      font-size: 18px;
+      font-weight: 700;
+      color: rgb(190, 114, 84);
+    }
+    .foodap_buttons-container {
+      button {
+        color: white;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 22px;
+        letter-spacing: 0.20000000298023224px;
+        padding: 10px 20px;
+        text-align: center;
+        border: none;
+        background-color: rgb(190, 114, 84);
+        border-radius: 15px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .foodap_main-container {
+    padding: 50px 0;
+    .foodap_left-container {
+      .foodap_buttons-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .foodap_info {
+        .foodap_det {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      }
+    }
+  }
+}

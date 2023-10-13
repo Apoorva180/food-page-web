@@ -1,0 +1,40 @@
+.foodap_tst-content {
+  font-family: "Montserrat", sans-serif;
+}
+
+.foodap_tst-title {
+  color: rgb(190, 145, 7);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%;
+}
+.foodap_tst-heading {
+  font-size: 26px;
+  font-style: normal;
+  line-height: 100%;
+  font-weight: bold;
+}
+.foodap_tst-para {
+  font-size: 13px;
+  color: #464444;
+  font-style: normal;
+  line-height: 100%;
+  font-weight: 400;
+}
+.star {
+  scale: 0.4;
+}
+.foodap_tst-name {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 100%;
+}
+.foodap_tst-sub {
+  font-size: 13px;
+  color: #464444;
+  font-style: normal;
+  line-height: 100%;
+  font-weight: 400;
+}

@@ -1,0 +1,18 @@
+.foodap_tst-cards {
+  border: none;
+  font-family: "Montserrat", sans-serif;
+}
+
+.foodap_tst-headers {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%;
+}
+.foodap_tst-content {
+  font-size: 16px;
+  color: #464444;
+  font-style: normal;
+  line-height: 100%;
+  font-weight: 400;
+}

@@ -1,0 +1,36 @@
+
+.login-btn {
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0.20000000298023224px;
+  padding: 6px 20px;
+  text-align: center;
+  border: none;
+  background-color: rgb(190, 114, 84);
+  border-radius: 15px;
+}
+.navbar-brand {
+  font-size: 16px;
+  color: rgb(190, 114, 84);
+  font-weight: 700;
+}
+
+.navbar {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(237, 207, 180);
+}
+.nav-link {
+  font-size: 14px;
+}
+@media only screen and (max-width: 768px) {
+  .nav-link {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 430px) {
+  .nav-link {
+    font-size: 14px;
+  }
+}

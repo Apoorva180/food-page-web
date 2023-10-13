@@ -1,0 +1,33 @@
+
+.foodap_tst-block {
+  font-family: "Montserrat", sans-serif;
+  background: rgb(255, 207, 188);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 207, 188, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 50px 0;
+}
+
+.foodap_tst-head {
+  color: rgb(190, 145, 7);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%;
+}
+.foodap_tst-bold {
+  font-size: 30px;
+  font-style: normal;
+  line-height: 100%;
+  font-weight: bold;
+}
+
+.foodap_tst-lorem {
+  font-size: 13px;
+  color: #464444;
+  font-style: normal;
+  line-height: 100%;
+  font-weight: 400;
+}
